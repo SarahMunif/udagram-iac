@@ -1,4 +1,6 @@
 👉 [ Load Balencer linke ](https://lucid.app/lucidchart/4e17d975-c0dc-4f76-8255-8c99418dfa80/edit?viewport_loc=-13144%2C-7533%2C21947%2C15714%2C0_0&invitationId=inv_84a5e66c-e8c9-4374-b669-f3e3267c0551)
+
+
 Prerequisites
 AWS CLI installed and configured.
 
