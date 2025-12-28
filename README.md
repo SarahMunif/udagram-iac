@@ -1,5 +1,4 @@
 👉 [ Load Balencer linke ](https://lucid.app/lucidchart/4e17d975-c0dc-4f76-8255-8c99418dfa80/edit?viewport_loc=-13144%2C-7533%2C21947%2C15714%2C0_0&invitationId=inv_84a5e66c-e8c9-4374-b669-f3e3267c0551)
-##  Output screenshot 
 Prerequisites
 AWS CLI installed and configured.
 
@@ -34,6 +33,7 @@ Infrastructure Components
 
 You can view the full infrastructure diagram for this project here:
 <img width="1472" height="709" alt="image" src="https://github.com/user-attachments/assets/c9d21002-69ec-44f7-b039-51b999f72b83" />
+##  Output screenshot 
 
 <img width="1510" height="251" alt="Screenshot 2025-12-28 at 10 25 16" src="https://github.com/user-attachments/assets/ebbda952-2e48-42e6-b233-68657e974e89" />
 <img width="1506" height="947" alt="Screenshot 2025-12-28 at 10 23 19" src="https://github.com/user-attachments/assets/1a0da684-00d8-468f-a3be-3a6d94e9b738" />
