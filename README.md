@@ -1,4 +1,4 @@
-👉 [ Load Balencer linke ](http://appsta-WebAp-37CofmPBKbtc-810023109.us-east-1.elb.amazonaws.com)
+👉 [ Load Balancer link ](http://appsta-WebAp-37CofmPBKbtc-810023109.us-east-1.elb.amazonaws.com)
 
 
 Prerequisites
